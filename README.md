@@ -14,6 +14,9 @@ The Workout App is designed to provide an all-in-one solution for fitness enthus
 - **Nutrition Monitoring:** Track water intake, calories, vitamins, and sleep hours.
 - **Analysis:** Visualize your progress and analyze your total weight lifted.
 
+### Overview Picture:
+![Overview of Workout Tracking](https://github.com/Brock-Denton/Workout-App/blob/main/workoutExample.png)
+
 ## Why Use This App?
 
 The Workout App is perfect for anyone looking to stay organized and motivated on their fitness journey. It provides a structured way to manage different aspects of your fitness regimen, ensuring you stay on track and make informed decisions.
