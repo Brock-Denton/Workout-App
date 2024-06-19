@@ -15,7 +15,7 @@ The Workout App is designed to provide an all-in-one solution for fitness enthus
 - **Analysis:** Visualize your progress and analyze your total weight lifted.
 
 ### Overview Picture:
-![Overview of Workout Tracking](https://github.com/Brock-Denton/Workout-App/blob/main/workoutExample.png)
+![Overview of Workout Tracking]()
 
 ## Why Use This App?
 
